@@ -1,6 +1,6 @@
 # Master Thesis – Simulation Codes
 
-This repository contains the MATLAB codes used for the numerical simulations and bifurcation analysis presented in the Master's thesis:
+This repository contains the MATLAB codes used for the numerical simulations and bifurcation analysis presented in the Master's thesis together with the summary table for the models review:
 
 **From Negative Plant--Soil Feedback to Vegetation Patterns: A Cross-Diffusion Approach**
 
