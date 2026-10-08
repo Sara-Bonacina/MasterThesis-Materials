@@ -17,6 +17,11 @@ The repository contains the following MATLAB codes:
 * `simtheta_1d_video.m` – implementation of the different transition functions $\theta$ considered in the one-dimensional simulations.
 * `continuation/` – files used for the numerical continuation and bifurcation analysis of stationary solutions with `pde2path`.
 
+In addition, the repository includes:
+
+* `modelsNPSF_review.pdf` – table summarizing all the models considered in the thesis with a link to the corresponding paper for each model.
+* `modelsNPSF_review.xlsx` 
+
 ## Software
 
 The simulations were performed using **MATLAB R2024b**.
