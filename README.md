@@ -15,7 +15,7 @@ The repository contains the following MATLAB codes:
 * `1Dsim_ode15s.m` – code for the one-dimensional numerical simulations.
 * `evol2d_4scenarios.m` – code for the two-dimensional numerical simulations.
 * `simtheta_1d_video.m` – implementation of the different transition functions $\theta$ considered in the one-dimensional simulations.
-* `pde2path/` – files used for the numerical continuation and bifurcation analysis of stationary solutions with `pde2path`.
+* `continuation/` – files used for the numerical continuation and bifurcation analysis of stationary solutions with `pde2path`.
 
 ## Software
 
